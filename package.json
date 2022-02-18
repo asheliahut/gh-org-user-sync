@@ -1,6 +1,6 @@
 {
   "name": "gh-org-user-sync",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Syncs the members of a GitHub organization to a new GitHub organization",
   "homepage": "https://github.com/asheliahut/gh-org-user-sync",
   "keywords": [
@@ -23,6 +23,12 @@
   "author": "Ashley Hutson <asheliahut@gmail.com> (https://screwmyprivacy.com)",
   "license": "Unlicense",
   "bin": "dist/gh-org-user-sync.js",
+  "main": "dist/gh-org-user-sync.js",
+  "files": [
+    "dist",
+    "src",
+    "tsconfig.json"
+  ],
   "pkg": {
     "scripts": "dist/**/*.js"
   },
