@@ -2,6 +2,14 @@
   "name": "gh-org-user-sync",
   "version": "1.0.0",
   "description": "Syncs the members of a GitHub organization to a new GitHub organization",
+  "homepage": "https://github.com/asheliahut/gh-org-user-sync",
+  "keywords": [
+    "github",
+    "api",
+    "organization",
+    "user",
+    "sync"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/asheliahut/gh-org-user-sync"
@@ -14,9 +22,7 @@
   },
   "author": "Ashley Hutson <asheliahut@gmail.com> (https://screwmyprivacy.com)",
   "license": "Unlicense",
-  "bin": {
-    "gh-org-user-sync": "dist/gh-org-user-sync.js"
-  },
+  "bin": "dist/gh-org-user-sync.js",
   "pkg": {
     "scripts": "dist/**/*.js"
   },
