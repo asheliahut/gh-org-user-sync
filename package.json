@@ -7,7 +7,7 @@
     "url": "https://github.com/asheliahut/gh-org-user-sync"
   },
   "scripts": {
-    "start": "ts-node src/index.ts",
+    "start": "ts-node src/gh-org-user-sync.ts",
     "build": "tsc",
     "package": "pkg . -t node14-linux --output gh-org-user-sync",
     "test": "echo \"Error: no test specified\" && exit 1"
