@@ -4,7 +4,7 @@ Syncs the members of a GitHub organization to a new GitHub organization. This ap
 
 ## Mandatory Environment Variable
 
-    - GH_USER_SYNC_TOKEN - GitHub API token with org admin & user access privileges.
+    - GH_USER_SYNC_TOKEN - GitHub API token with org admin in both orgs & user access privileges.
 
 ## Usage
 
