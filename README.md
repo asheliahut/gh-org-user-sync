@@ -2,8 +2,8 @@
 
 ![Banner](./banner/gh-org-user-sync.png)
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/asheliahut/gh-org-user-sync?style=for-the-badge)
-![npm](https://img.shields.io/npm/dt/gh-org-user-sync?style=for-the-badge)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/asheliahut/gh-org-user-sync?style=for-the-badge&logo=github)
+![npm](https://img.shields.io/npm/dt/gh-org-user-sync?style=for-the-badge&logo=npm)
 
 Syncs the members of a GitHub organization to a new GitHub organization. This application supports both `github.com` along with `GitHub Enterprise Servers`.
 
