@@ -100,7 +100,7 @@ function findMissingMembers(
   const progressBar = new SingleBar({}, Presets.shades_classic);
   const octokit = new Octokit({
     baseUrl: options.url,
-    auth: `token ${process.env.GHE_USER_SYNC_TOKEN}`,
+    auth: `token ${process.env.GH_USER_SYNC_TOKEN}`,
   });
 
   try {
