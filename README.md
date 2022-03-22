@@ -37,7 +37,7 @@ Options
 Project home: https://github.com/asheliahut/gh-org-user-sync
 ```
 
-## Exaplining Verbose
+## Explaining Verbose
 
 The `verbose` option is a number to determine the verbosity level. All levels add additional details. Further details:
 
