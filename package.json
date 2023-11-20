@@ -36,7 +36,7 @@
     "@octokit/rest": "^19.0.4",
     "cli-progress": "^3.10.0",
     "command-line-args": "^5.2.1",
-    "command-line-usage": "^6.1.1"
+    "command-line-usage": "^7.0.1"
   },
   "devDependencies": {
     "@types/cli-progress": "^3.9.2",
